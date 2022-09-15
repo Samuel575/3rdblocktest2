@@ -1,18 +1,22 @@
 h1{
-    color:red
+    color:salmon
 }
 .scream{
-
+    font-size:48px;
+    text-align:center;
 }
 .mayhem{
-
+    background-color:blueviolet
 }
 .agony{
-
+    background-color:firebrick
 }
 .torture{
-
+    background-color:aquamarine
 }
-head{
-    
+.futile{
+    background-color:yellowgreen;
+}
+.love{
+    background-color:lightcyan
 }
